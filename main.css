@@ -18,3 +18,7 @@
    #id2 {
     font-size: 1.2em;
    }
+   ul {
+    list-style-type: square;
+    color: rgba(33, 71, 71, 0.745);
+   }
