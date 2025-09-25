@@ -22,4 +22,12 @@
     list-style-type: square;
     color: rgba(33, 71, 71, 0.745);
    }
-   
+   h2 {
+    color: rgb(35, 67, 35);
+    font-family: monospace;
+    font-size: 2em;
+    margin-bottom: 30px;
+    }
+    h3 {
+        color: rgb(35, 67, 35);
+    }
