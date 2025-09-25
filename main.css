@@ -31,3 +31,18 @@
     h3 {
         color: rgb(35, 67, 35);
     }
+    #table1 thead {
+    background-color: rgba(62, 63, 115, 0.815);
+}
+th, td {
+    border: 1px solid black;
+    padding: .2em .7em;
+    text-align: right;
+    &.left{
+            text-align: left;
+    }
+}
+#table1 {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
