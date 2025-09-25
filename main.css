@@ -1,11 +1,11 @@
  body {
       font-family: monospace;
-      background-color: #e0ffe0;
+      background-color: #e0ffe0a6;
       padding: 20px;
 }
  a {
     display: inline-block; /*making the link a block element*/
-    color: rgb(65, 34, 22); /*bright blue text color*/
+    color: rgb(65, 34, 22); /*brown text color*/
     text-decoration: none; /*removing the underline*/
     padding: 5px 10px; /*adding some space inside the link*/
     border: 3px solid rgb(65, 34, 22); /*added a pink color*/
@@ -22,3 +22,4 @@
     list-style-type: square;
     color: rgba(33, 71, 71, 0.745);
    }
+   
