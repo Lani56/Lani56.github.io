@@ -57,3 +57,17 @@ th, td {
 #table2, #table1 tbody {
     background-color: white;
 }
+.border-link {
+    border: none;
+    text-decoration: underline;
+}
+#table3 thead {
+    background-color: rgb(211, 230, 246);
+}
+#table3 {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#table3 tbody {
+    background-color: white;
+}
