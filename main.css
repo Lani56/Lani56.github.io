@@ -133,3 +133,14 @@ label {
 textarea {
     width: 100%;
 }
+html {
+    scroll-behavior: smooth;
+}
+a.toc {
+    display:flex;
+    border: none;
+    text-decoration: underline;
+}
+a.toc:hover {
+    background-color: rgb(251, 182, 132);
+}
