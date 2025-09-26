@@ -33,6 +33,7 @@
     }
     #table1 thead {
     background-color: rgba(62, 63, 115, 0.815);
+    color: rgb(247, 241, 241);
 }
 th, td {
     border: 1px solid black;
@@ -45,4 +46,11 @@ th, td {
 #table1 {
     border: 1px solid black;
     border-collapse: collapse;
+}
+#table2 {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#table2 thead {
+    background-color: rgb(215, 228, 97);
 }
