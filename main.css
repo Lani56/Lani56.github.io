@@ -121,3 +121,15 @@ th, td {
 hr {
     color: #e0ffe0a6;
 }
+.comment-box {
+    border: 2px solid #444;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #faf9f6;
+}
+label {
+    font-weight: bold;
+}
+textarea {
+    width: 100%;
+}
