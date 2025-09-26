@@ -54,3 +54,6 @@ th, td {
 #table2 thead {
     background-color: rgb(215, 228, 97);
 }
+#table2, #table1 tbody {
+    background-color: white;
+}
