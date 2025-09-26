@@ -112,3 +112,9 @@ th, td {
     text-align: left;
     margin-left: 0;
 }
+.question {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 2px solid #444;
+}
